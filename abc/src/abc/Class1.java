@@ -7,4 +7,5 @@ public class Class1 {
 	 //comment for commit 5
 	
 	//comment for commit 6
+	//comment for commit 8
 }
