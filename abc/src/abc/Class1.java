@@ -18,6 +18,5 @@ public class Class1 {
 
 // commit A for branch newBranch
 
-//  commit A for branch newBranch
 
 }
