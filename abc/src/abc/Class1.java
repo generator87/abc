@@ -11,5 +11,5 @@ public class Class1 {
 	
 	//comment for commit 6
 	//comment for commit 8
-
+//commit A for branch newBranch
 }
