@@ -15,9 +15,9 @@ public class Class1 {
 	
 	//comment for commit 6
 	//comment for commit 8
-<<<<<<< HEAD
+
 // commit A for branch newBranch
-=======
+
 //  commit A for branch newBranch
->>>>>>> refs/heads/newBranch2
+
 }
