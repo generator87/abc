@@ -18,4 +18,8 @@ public class Class1 {
 
 //   commit A for branch newBranch
 
+//pi change1
+//pi change2
+//pi change3
+
 }
